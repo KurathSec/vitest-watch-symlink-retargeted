@@ -1,0 +1,4 @@
+node_modules/
+watch.log
+tests/link.test.js
+tests/.link.tmp

@@ -1,0 +1,6 @@
+{
+  "name": "vitest-watch-symlink-retargeted",
+  "private": true,
+  "type": "module",
+  "devDependencies": { "vitest": "5.1.0" }
+}
